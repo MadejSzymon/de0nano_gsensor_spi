@@ -1,0 +1,16 @@
+Fitter Status : Successful - Tue Sep 20 21:53:46 2022
+Quartus Prime Version : 18.1.0 Build 625 09/12/2018 SJ Lite Edition
+Revision Name : g_sensor_spi
+Top-level Entity Name : top
+Family : Cyclone IV E
+Device : EP4CE22F17C6
+Timing Models : Final
+Total logic elements : 367 / 22,320 ( 2 % )
+    Total combinational functions : 367 / 22,320 ( 2 % )
+    Dedicated logic registers : 170 / 22,320 ( < 1 % )
+Total registers : 170
+Total pins : 14 / 154 ( 9 % )
+Total virtual pins : 0
+Total memory bits : 0 / 608,256 ( 0 % )
+Embedded Multiplier 9-bit elements : 0 / 132 ( 0 % )
+Total PLLs : 1 / 4 ( 25 % )
